@@ -1,3 +1,4 @@
+// Rutas
 const express= require('express')
 const {test,c_img}= require('../contollers/project_controller')
 const router = express.Router()
