@@ -24,3 +24,5 @@ module.exports={
   PORT
 };
 
+// kill port/
+// fuser -k -n tcp 6677
