@@ -1,3 +1,4 @@
+// Controlador
 const fs = require('fs');
 const test={
   home:function (req,res) {
